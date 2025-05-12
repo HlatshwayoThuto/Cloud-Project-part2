@@ -132,22 +132,20 @@ namespace EventEaseApp.Controllers
 
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Delete(int id)
+        public async Task<IActionResult> DeleteConfirmed(int id)
         {
-
             var booking = await _context.Booking.FindAsync(id);
 
             if (booking == null)
             {
-                _context.Remove(booking);
-                await _context.SaveChangesAsync();
-
-                TempData["SuccessMessage"] = "Booking deleted successfully.";
+                return NotFound();
             }
-            
-           
+
+            _context.Booking.Remove(booking);
+            await _context.SaveChangesAsync();
+
+            TempData["SuccessMessage"] = "Booking deleted successfully.";
             return RedirectToAction(nameof(Index));
-   
         }
 
         private bool BookingExists(int id)

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -94,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Document",
@@ -164,7 +164,7 @@
               "RelativeDocumentMoniker": "Views\\Booking\\Index.cshtml",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Booking\\Index.cshtml",
               "RelativeToolTip": "Views\\Booking\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswEYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-10T10:32:23.29Z",
               "EditorCaption": ""
@@ -279,13 +279,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "VenueController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Controllers\\VenueController.cs",
               "RelativeDocumentMoniker": "Controllers\\VenueController.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Controllers\\VenueController.cs",
               "RelativeToolTip": "Controllers\\VenueController.cs",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAowLUAAAADAQAAAAAAAA==",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAowLsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T19:20:15.957Z",
               "EditorCaption": ""
@@ -304,15 +304,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BookingController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Controllers\\BookingController.cs",
               "RelativeToolTip": "Controllers\\BookingController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwFEAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAwJQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T15:38:46.874Z"
+              "WhenOpened": "2025-04-06T15:38:46.874Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
