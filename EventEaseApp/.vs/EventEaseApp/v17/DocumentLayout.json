@@ -1,89 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\",
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\views\\venue\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\views\\venue\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:views\\venue\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\views\\venue\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\views\\venue\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:views\\venue\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\views\\venue\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\views\\venue\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:views\\venue\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\views\\venue\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\views\\venue\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:views\\venue\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\models\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\models\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:models\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\videos\\clvd6211part1-main\\eventeaseapp\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\cloud-project-part2\\eventeaseapp\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{520BD048-42B5-40B0-A7B8-D2CAA99A036F}|EventEaseApp.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -94,15 +94,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -112,9 +112,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Booking\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Booking\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Booking\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Booking\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Booking\\Edit.cshtml",
               "RelativeToolTip": "Views\\Booking\\Edit.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -124,9 +124,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Events\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Events\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Events\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Events\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Events\\Edit.cshtml",
               "RelativeToolTip": "Views\\Events\\Edit.cshtml",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -136,9 +136,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Events\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Events\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Events\\Create.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Events\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Events\\Create.cshtml",
               "RelativeToolTip": "Views\\Events\\Create.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -148,9 +148,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Events\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Events\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Events\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Events\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Events\\Delete.cshtml",
               "RelativeToolTip": "Views\\Events\\Delete.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -158,24 +158,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Booking\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Booking\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Booking\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Booking\\Index.cshtml",
               "RelativeToolTip": "Views\\Booking\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T10:32:23.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T10:32:23.29Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Venue\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Venue\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Venue\\Details.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Venue\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Venue\\Details.cshtml",
               "RelativeToolTip": "Views\\Venue\\Details.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAACYAAACBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -185,9 +184,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Venue\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Venue\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Venue\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Venue\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Venue\\Delete.cshtml",
               "RelativeToolTip": "Views\\Venue\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -197,9 +196,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Venue\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Venue\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Venue\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Venue\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Venue\\Edit.cshtml",
               "RelativeToolTip": "Views\\Venue\\Edit.cshtml",
               "ViewState": "AgIAACoAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -209,9 +208,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Venue\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Venue\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Venue\\Create.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Venue\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Venue\\Create.cshtml",
               "RelativeToolTip": "Views\\Venue\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -221,9 +220,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Events\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Events\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Events\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Events\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Events\\Index.cshtml",
               "RelativeToolTip": "Views\\Events\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -233,9 +232,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Venue\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Venue\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Venue\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Venue\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Venue\\Index.cshtml",
               "RelativeToolTip": "Views\\Venue\\Index.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -245,9 +244,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -257,9 +256,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Venues\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Venues\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Venues\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Views\\Venues\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Views\\Venues\\Index.cshtml",
               "RelativeToolTip": "Views\\Venues\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -269,9 +268,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Venue.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Models\\Venue.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Models\\Venue.cs",
               "RelativeDocumentMoniker": "Models\\Venue.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Models\\Venue.cs",
               "RelativeToolTip": "Models\\Venue.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAuwBkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -279,23 +278,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "VenueController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Controllers\\VenueController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Controllers\\VenueController.cs",
               "RelativeDocumentMoniker": "Controllers\\VenueController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Controllers\\VenueController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Controllers\\VenueController.cs",
               "RelativeToolTip": "Controllers\\VenueController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAALYAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAowLUAAADfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T19:20:15.957Z"
+              "WhenOpened": "2025-04-06T19:20:15.957Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -303,24 +303,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BookingController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Controllers\\BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Controllers\\BookingController.cs",
               "RelativeToolTip": "Controllers\\BookingController.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAkwFEAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T15:38:46.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T15:38:46.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EventsController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Controllers\\EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Controllers\\EventsController.cs",
               "RelativeDocumentMoniker": "Controllers\\EventsController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Controllers\\EventsController.cs",
               "RelativeToolTip": "Controllers\\EventsController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwFsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -330,9 +329,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Models\\Booking.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "Models\\Booking.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Models\\Booking.cs",
               "RelativeToolTip": "Models\\Booking.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -342,9 +341,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Events.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Models\\Events.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Models\\Events.cs",
               "RelativeDocumentMoniker": "Models\\Events.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Videos\\CLVD6211part1-main\\EventEaseApp\\Models\\Events.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Cloud-Project-part2\\EventEaseApp\\Models\\Events.cs",
               "RelativeToolTip": "Models\\Events.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
